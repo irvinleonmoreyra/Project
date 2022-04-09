@@ -1,7 +1,7 @@
 from iterator_class import SequenceNumber
 
 def main():
-    sequence_number=SequenceNumber(0,3)
+    sequence_number=SequenceNumber(0,5)
     #print 0
     print(next(sequence_number))
     #print 1
